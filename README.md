@@ -49,17 +49,46 @@
 
 3. 資料科學特徵工程技術
 
+[D22：特徵工程簡介](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_022_HW.ipynb)
+
+[D23：數值型特徵 - 去除偏態](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_023_HW.ipynb)
+
+[D24：類別型特徵 - 基礎處理](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_024_HW.ipynb)
+
+[D25：類別型特徵 - 均值編碼](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_025_HW.ipynb)
+
+[D26：類別型特徵 - 其他進階處理](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_026_HW.ipynb)
+
+[D27：時間型特徵](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_027_HW.ipynb)
+
+[D28：特徵組合 - 數值與數值組合](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_028_HW.ipynb)
+
+[D29：特徵組合 - 類別與數值組合](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_029_HW.ipynb)
+
+[D30：特徵選擇](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_030_HW.ipynb)
+
+[D31：特徵評估](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_031_HW.ipynb)
+
+[D32：分類型特徵優化 - 葉編碼](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_032_HW.ipynb)
+
 4. 機器學習基礎模型建立
+[]()
 
 5. 機器學習調整參數
+[]()
 
 6. 非監督式機器學習
+[]()
 
 7. 深度學習理論及實作
+[]()
 
 8. 初探深度學習及Keras
+[]()
 
 9. 深度學習應用捲積神經網路
+[]()
 
 10. Bonus進階補充
+[]()
 
