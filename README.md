@@ -3,13 +3,13 @@
 
 1. 機器學習概論
 
-D1:資料介紹與評估資料(https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_001_HW.ipynb)
+[D1:資料介紹與評估資料](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_001_HW.ipynb)
 
-D2:機器學習概論(https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_002_HW.ipynb)
+[D2:機器學習概論](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_002_HW.ipynb)
 
-D3:機器學習-流程與步驟(https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_003_HW.ipynb)
+[D3:機器學習-流程與步驟](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_003_HW.ipynb)
 
-D4:EDA/讀取資料與分析流程(https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_004_HW.ipynb)
+[D4:EDA/讀取資料與分析流程](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_004_HW.ipynb)
 
 2. 資料清理數據前處理
 
