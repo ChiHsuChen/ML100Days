@@ -72,6 +72,7 @@
 [D32：分類型特徵優化 - 葉編碼](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_032_HW.ipynb)
 
 4. 機器學習基礎模型建立
+
 [D33：機器如何學習?](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_033_HW.ipynb)
 
 [D34：訓練/測試集切分的概念](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_034_HW.ipynb)
@@ -101,6 +102,7 @@
 [D46：tree based model - 梯度提升機程式碼撰寫](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_046_HW.ipynb)
 
 5. 機器學習調整參數
+
 [D47：超參數調整與優化](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_047_HW.JPG)
 
 [D48：Kaggle 競賽平台介紹](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_048_HW.JPG)
@@ -112,6 +114,7 @@
 [D51 - D53：Kaggle期中考 考ML與調參相關](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day051-053_MidTerm.JPG)
 
 6. 非監督式機器學習
+
 [D54：非監督式機器學習簡介](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_054_HW.ipynb)
 
 [D55：非監督式學習—分群算法 / K-Means 分群](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_055_HW.ipynb)
@@ -131,6 +134,7 @@
 [D62：t-sne 觀察 : 分群與流形還原](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_062_tsne.ipynb)
 
 7. 深度學習理論及實作
+
 []()
 []()
 []()
@@ -138,6 +142,7 @@
 []()
 
 8. 初探深度學習及Keras
+
 []()
 []()
 []()
@@ -145,6 +150,7 @@
 []()
 
 9. 深度學習應用捲積神經網路
+
 []()
 []()
 []()
@@ -152,6 +158,7 @@
 []()
 
 10. Bonus進階補充
+
 []()
 []()
 []()
