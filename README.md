@@ -135,33 +135,96 @@
 
 7. 深度學習理論及實作
 
-[]()
-[]()
-[]()
-[]()
-[]()
+[D63：深度學習簡介](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_063_HW.ipynb)
+
+[D64：深度學習體驗 : 模型調整與學習曲線](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_064_HW.ipynb)
+
+[D65：深度學習體驗 : 啟動函數與正規化](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_065_HW.ipynb)
 
 8. 初探深度學習及Keras
 
-[]()
-[]()
-[]()
-[]()
-[]()
+[D66：Keras 安裝與介紹](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day066_HW.ipynb)
+
+[D67：Keras Dataset](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day067_HW.ipynb)
+
+[D68：Keras Sequential API](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day068_HW.ipynb)
+
+[D69：Keras Module API](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day069_HW.ipynb)
+
+[D70：深度神經網路的基礎知識](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day070_HW.ipynb)
+
+[D71：損失函數](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day071_HW.ipynb)
+
+[D72：啟動函數](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day072_HW.ipynb)
+
+[D73：梯度下降Gradient Descent](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day073_HW.ipynb)
+
+[D74：Gradient Descent 數學原理](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day074_HW.ipynb)
+
+[D75：BackPropagation](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day075_HW.ipynb)
+
+[D76：優化器optimizers](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day076_HW.ipynb)
+
+[D77：訓練神經網路的細節與技巧 - Validation and overfit](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day077_HW.ipynb)
+
+[D78：訓練神經網路前的注意事項](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day078_HW.ipynb)
+
+[D79：訓練神經網路的細節與技巧 - Learning rate effect](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day079_HW.ipynb)
+
+[D80：[練習 Day] 優化器與學習率的組合與比較](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day080_HW.ipynb)
+
+[D81：訓練神經網路的細節與技巧 - Regularization](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day081_HW.ipynb)
+
+[D82：訓練神經網路的細節與技巧 - Dropout](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day082_HW.ipynb)
+
+[D83：訓練神經網路的細節與技巧 - Batch normalization](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day083_HW.ipynb)
+
+[D84：[練習 Day] 正規化/機移除/批次標準化的 組合與比較](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day084_HW.ipynb)
+
+[D85：訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day085_HW.ipynb)
+
+[D86：訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day086_HW.ipynb)
+
+[D87：訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day087_HW.ipynb)
+
+[D88：訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day088_HW.ipynb)
+
+[D89：訓練神經網路的細節與技巧 - 撰寫自己的 Loss function](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day089_HW.ipynb)
+
+[D90：使用傳統電腦視覺與機器學習進行影像辨識](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day090_color_histogram_HW.ipynb)
+
+[D91：[練習 Day] 使用傳統電腦視覺與機器學習進行影像辨識](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day091_classification_with_cv_HW.ipynb)
 
 9. 深度學習應用捲積神經網路
 
-[]()
-[]()
-[]()
-[]()
-[]()
+[D92：卷積神經網路 (Convolution Neural Network, CNN) 簡介](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day092_CNN_theory.ipynb)
+
+[D93：卷積神經網路架構細節](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day93_CNN_Brief_HW.ipynb)
+
+[D94：卷積神經網路 - 卷積(Convolution)層與參數調整](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day94_CNN_Convolution_HW.ipynb)
+
+[D95：卷積神經網路 - 池化(Pooling)層與參數調整](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day95_CNN_Pooling_Padding_HW.ipynb)
+
+[D96：Keras 中的 CNN layers](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day096_Keras_CNN_layers.ipynb)
+
+[D97：使用 CNN 完成 CIFAR-10 資料集](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day097_Keras_CNN_vs_DNN.ipynb)
+
+[D98：訓練卷積神經網路的細節與技巧 - 處理大量數據](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day098_Python_generator.ipynb)
+
+[D99：訓練卷積神經網路的細節與技巧 - 處理小量數據](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day099_data_augmentation.ipynb)
+
+[D100：訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day100_transfer_learning_HW.ipynb)
+
+Kaggle期末考(1)
+
+[D101 - D103：影像辨識](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day101-103-Final.PNG)
 
 10. Bonus進階補充
 
-[]()
-[]()
-[]()
-[]()
-[]()
+D104：史丹佛線上 ConvNetJS 簡介
 
+D105：CNN 卷積網路回顧
+
+D106：電腦視覺常⽤公開資料集
+
+D107：電腦視覺應用介紹
