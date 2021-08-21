@@ -73,37 +73,61 @@
 
 4. 機器學習基礎模型建立
 [D33：機器如何學習?](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_033_HW.ipynb)
+
 [D34：訓練/測試集切分的概念](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_034_HW.ipynb)
+
 [D35：regression vs. classification](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_035_HW.ipynb)
+
 [D36：評估指標選定/evaluation metrics](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_036_HW.ipynb)
+
 [D37：regression model 介紹 - 線性迴歸/羅吉斯回歸](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_037_HW.ipynb)
+
 [D38：regression model 程式碼撰寫](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_038_HW.ipynb)
+
 [D39：regression model 介紹 - LASSO 回歸/ Ridge 回歸](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_039_HW.ipynb)
+
 [D40：regression model 程式碼撰寫](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_040_HW.ipynb)
+
 [D41：tree based model - 決策樹 (Decision Tree) 模型介紹](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_041_HW.ipynb)
+
 [D42：tree based model - 決策樹程式碼撰寫](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_042_HW.ipynb)
+
 [D43：tree based model - 隨機森林 (Random Forest) 介紹](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_043_HW.ipynb)
+
 [D44：tree based model - 隨機森林程式碼撰寫](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_044_HW.ipynb)
+
 [D45：tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_045_HW.ipynb)
+
 [D46：tree based model - 梯度提升機程式碼撰寫](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_046_HW.ipynb)
 
 5. 機器學習調整參數
 [D47：超參數調整與優化](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_047_HW.JPG)
+
 [D48：Kaggle 競賽平台介紹](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_048_HW.JPG)
+
 [D49：集成方法 : 混合泛化(Blending)](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_049_HW.JPG)
+
 [D50：集成方法 : 堆疊泛化(Stacking)](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_050_HW.JPG)
 
 [D51 - D53：Kaggle期中考 考ML與調參相關](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day051-053_MidTerm.JPG)
 
 6. 非監督式機器學習
 [D54：非監督式機器學習簡介](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_054_HW.ipynb)
+
 [D55：非監督式學習—分群算法 / K-Means 分群](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_055_HW.ipynb)
+
 [D56：分群算法 — K-means 分群評估 : 使用輪廓分析](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_056_HW.ipynb)
+
 [D57：分群算法 — 階層式分群 Hierarchical Clustering](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_057_HW.ipynb)
+
 [D58：分群算法 — 階層分群法 觀察 : 使用 2D 樣版資料集](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_058_HW.ipynb)
+
 [D59：dimension reduction 1 降維方法-主成份分析](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_059_HW.ipynb)
+
 [D60：PCA 觀察 : 使用手寫辨識資料集](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_060_HW.ipynb)
+
 [D61：dimension reduction 2 降維方法-T-SNE](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_061_HW.ipynb)
+
 [D62：t-sne 觀察 : 分群與流形還原](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_062_tsne.ipynb)
 
 7. 深度學習理論及實作
