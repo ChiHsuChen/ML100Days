@@ -33,9 +33,9 @@
 
 [D14：程式實作 EDA: correlation/相關係數簡介](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_014_HW.ipynb)
 
-[D15：EDA from Correlation](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_016_HW.ipynb)
+[D15：EDA from Correlation](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_015_HW.ipynb)
 
-[D16：EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)]()
+[D16：EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_016_HW.ipynb)
 
 [D17：EDA: 把連續型變數離散化](https://github.com/ChiHsuChen/ML100Days/blob/master/homework/Day_017_HW.ipynb)
 
